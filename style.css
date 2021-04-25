@@ -1,0 +1,22 @@
+h1{
+    background-color:rgb(64, 255, 0);
+ 
+}
+.header *{
+    border:solid;
+}
+
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+}
